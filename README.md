@@ -1,4 +1,4 @@
-Salen Core staging tree 0.12.1.4
+Salen Core staging tree 1.0.0
 ===============================
 
 https://www.salencoin.com

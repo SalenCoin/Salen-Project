@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Salen
+Comment=Salen P2P Cryptocurrency
+Exec=salen-qt %u
+Terminal=false
+Type=Application
+Icon=salen128
+MimeType=x-scheme-handler/salen;
+Categories=Office;Finance;
+Name[en_US]=salen-qt.desktop

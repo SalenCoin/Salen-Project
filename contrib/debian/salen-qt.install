@@ -1,0 +1,6 @@
+usr/local/bin/salen-qt usr/bin
+share/pixmaps/salen32.xpm usr/share/pixmaps
+share/pixmaps/salen16.xpm usr/share/pixmaps
+share/pixmaps/salen128.png usr/share/pixmaps
+debian/salen-qt.desktop usr/share/applications
+debian/salen-qt.protocol usr/share/kde4/services/
